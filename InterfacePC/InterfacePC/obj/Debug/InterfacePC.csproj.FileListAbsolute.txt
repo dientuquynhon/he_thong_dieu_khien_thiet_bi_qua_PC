@@ -1,0 +1,16 @@
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csprojResolveAssemblyReference.cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.frmMain.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Properties.Resources.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.GenerateResource.Cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Debug\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Debug\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\bin\Debug\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\bin\Debug\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csprojResolveAssemblyReference.cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Debug\InterfacePC.frmMain.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Properties.Resources.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.GenerateResource.Cache

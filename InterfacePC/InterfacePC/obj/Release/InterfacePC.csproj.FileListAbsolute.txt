@@ -1,0 +1,49 @@
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Release\InterfacePC.frmMain.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.Cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 24 - GIAO TIEP MAY TINH VA LCD - TAP 2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Release\InterfacePC.frmMain.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.Cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 25 - GIAO TIEP MAY TINH VA LCD - TAP 3\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 28 - DIEU KHIEN CAC THIET BI QUA GIAO TIEP MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 28 - DIEU KHIEN CAC THIET BI QUA GIAO TIEP MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.frmMain.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 28 - DIEU KHIEN CAC THIET BI QUA GIAO TIEP MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 28 - DIEU KHIEN CAC THIET BI QUA GIAO TIEP MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.Cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 28 - DIEU KHIEN CAC THIET BI QUA GIAO TIEP MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 28 - DIEU KHIEN CAC THIET BI QUA GIAO TIEP MAY TINH\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 28 - DIEU KHIEN CAC THIET BI QUA GIAO TIEP MAY TINH\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 28 - DIEU KHIEN CAC THIET BI QUA GIAO TIEP MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.frmMain.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.Cache
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\ASUS\Downloads\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\ASUS\Downloads\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\ASUS\Downloads\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.frmMain.resources
+C:\Users\ASUS\Downloads\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\ASUS\Downloads\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\ASUS\Downloads\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\ASUS\Downloads\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.frmMain.resources
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.Cache
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\bin\Release\Microsoft.Office.Interop.Excel.dll
+I:\Project c#\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\InterfacePC\InterfacePC\bin\Release\stdole.dll

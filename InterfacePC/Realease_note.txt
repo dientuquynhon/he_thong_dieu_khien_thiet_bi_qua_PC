@@ -1,0 +1,3 @@
+install Manage nuget packages: excel, firebase
+save value info in excel file
+

@@ -1,0 +1,61 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC16F887
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+Development_Mode=
+ToolSuite=CCS
+[Target Data]
+FileList=main.c
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+[Directories]
+Include=<default>\;D:\PIC\PICC\Devices\;D:\PIC\PICC\Drivers\
+Library=
+LinkerScript=
+[E:\C\Documents\HOC LAP TRINH PIC16F877A VOI NGON NGU CCS\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\main]
+Type=4
+[mru-list]
+1=main.c
+[Opened Files]
+1=main.c
+2=main.h
+3=lcd.h
+4=..\..\Programs\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\main.c
+5=
+6=
+[main.c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[defines]
+enabled=0
+chip=1
+D1=
+V1=
+[fileformats]
+forcecoff=1
+debug=4
+error=2
+object=0
+list=0
+scratch=0
+sta=1
+tre=1
+allerrors=1
+allwarnings=1
+stayupne=3
+stayupoe=0
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[CompilerVersion]
+Fixed=
+[Units]
+Count=1
+1=main (main)

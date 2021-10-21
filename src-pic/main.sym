@@ -1,0 +1,173 @@
+004-005 @WRITE_PROGRAM_MEMORY8.P1
+004-005 @READ_PROGRAM_MEMORY8.P2
+015     CCP_1
+015     CCP_1_LOW
+016     CCP_1_HIGH
+01B     CCP_2
+01B     CCP_2_LOW
+01C     CCP_2_HIGH
+021-024 atan2.y
+021-024 MAIN.NhietDo
+025     _Delay.time
+025     ds18b20_read.busy
+025     lcd_init.i
+025-028 @PRINTF_L32D_786FPFPF.P1
+025-028 atan2.x
+025-028 @PRINTF_L32D_620FPFPF.P1
+025     @PSTRINGC7_786.@SCRATCH1
+026     _Delay.i
+026     ds18b20_read.temp1
+026     lcd_init.@SCRATCH1
+026     @PSTRINGC7_786.@SCRATCH2
+027     ds18b20_read.temp2
+027     @PSTRINGC7_786.@SCRATCH3
+028-029 ds18b20_read.temp3
+028     @PSTRINGC7_786.@SCRATCH4
+029     @PRINTF_L32D_786FPFPF.P1
+029-02C atan2.z
+029     @PRINTF_L32D_620FPFPF.P1
+02A-02D ds18b20_read.result
+02A     @PRINTF_L32D_786FPFPF.@SCRATCH1
+02A     @PRINTF_L32D_620FPFPF.@SCRATCH1
+02B     @PRINTF_L32D_786FPFPF.@SCRATCH2
+02B     @PRINTF_L32D_620FPFPF.@SCRATCH2
+02C     @PRINTF_L32D_786FPFPF.@SCRATCH3
+02C     @PRINTF_L32D_620FPFPF.@SCRATCH3
+02D.0   atan2.sign
+02D     @PRINTF_L32D_786FPFPF.@SCRATCH4
+02D     @PRINTF_L32D_620FPFPF.@SCRATCH4
+02E-02F @SITOF.P1
+02E     onewire_read.count
+02E     onewire_write.data
+02E     atan2.quad
+02E     ds18b20_read.@SCRATCH1
+02E     @PRINTF_L32D_786FPFPF.@SCRATCH5
+02E     @PRINTF_L32D_620FPFPF.@SCRATCH5
+02F     onewire_write.count
+02F     onewire_read.data
+02F     ds18b20_read.@SCRATCH2
+02F     @PRINTF_L32D_786FPFPF.@SCRATCH6
+02F     @PRINTF_L32D_620FPFPF.@SCRATCH6
+030     ds18b20_read.@SCRATCH3
+030     @PRINTF_L32D_786FPFPF.@SCRATCH7
+030     @PRINTF_L32D_620FPFPF.@SCRATCH7
+031     ds18b20_read.@SCRATCH4
+031     @PRINTF_L32D_786FPFPF.@SCRATCH8
+031     @PRINTF_L32D_620FPFPF.@SCRATCH8
+032-035 @DIV3232.P1
+032     @PUTCHAR_1_.P2
+032-035 @DIVFF.P3
+032-035 @FTOSD.P4
+032     lcd_putc.c
+032-035 @MULFF.P1
+033     @delay_ms2.P1
+033     lcd_gotoxy.x
+034     lcd_gotoxy.y
+035     lcd_gotoxy.address
+036-039 @DIVFF.P1
+036-039 @MULFF.P2
+036-039 @DIV3232.P3
+036     lcd_gotoxy.@SCRATCH1
+036     @FTOSD.@SCRATCH1
+037     lcd_send_byte.address
+038     lcd_send_byte.n
+039     lcd_read_byte.low
+039     lcd_send_byte.@SCRATCH1
+03A     lcd_read_byte.high
+03A     lcd_send_nibble.n
+03A     @MULFF.@SCRATCH1
+03A     @DIVFF.@SCRATCH1
+03A     @DIV3232.@SCRATCH1
+03B     lcd_read_nibble.n
+03B     @MULFF.@SCRATCH2
+03B     @DIVFF.@SCRATCH2
+03B     lcd_read_byte.@SCRATCH1
+03B     @DIV3232.@SCRATCH2
+03C     @MULFF.@SCRATCH3
+03C     @DIVFF.@SCRATCH3
+03C     lcd_read_nibble.@SCRATCH1
+03C     @DIV3232.@SCRATCH3
+03D     @MULFF.@SCRATCH4
+03D     @DIVFF.@SCRATCH4
+03D     @DIV3232.@SCRATCH4
+03E     @MULFF.@SCRATCH5
+03E     @DIVFF.@SCRATCH5
+03E     @DIV3232.@SCRATCH5
+03F     @DIVFF.@SCRATCH6
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+107.6   C1OUT
+108.6   C2OUT
+10D-10E @WRITE_PROGRAM_MEMORY8.P1
+10D-10E @READ_PROGRAM_MEMORY8.P2
+
+ROM Allocation:
+000004  LCD_INIT_STRING.call
+000008  LCD_INIT_STRING.data
+00000C  @const820.call
+000014  @const822.call
+00001D  @delay_ms2
+000032  lcd_send_nibble
+00005D  lcd_read_nibble
+00008E  lcd_send_byte
+000091  lcd_read_byte
+0000E5  lcd_init
+00011F  lcd_gotoxy
+000142  lcd_putc
+000166  @PSTRINGC7_786
+0001BC  _Delay
+0001C9  onewire_reset
+0001DC  onewire_write
+0001FA  onewire_read
+00021D  ds18b20_read
+000241  @SITOF
+00027A  @DIVFF
+000357  @MULFF
+0003CC  @FTOSD
+0003EB  @DIV3232
+00043A  @PRINTF_L32D_786FPFPF
+0004FF  @PUTCHAR_1_
+000521  @PRINTF_L32D_620FPFPF
+0005E6  MAIN
+0005E6  @cinit1
+0005FC  @cinit2
+
+Project Directory:
+    C:\Users\ASUS\Downloads\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\BAI 29 - HIEN THI NHIET DO LEN GIAO DIEN MAY TINH\
+
+Project Files:
+    main.c                                                  [22-May-18 09:05  CRC=93C8C0C2]
+    main.h                                                  [22-May-18 08:05  CRC=50D126BE]
+    D:\PIC\PICC\Devices\16F887.h                            [12-Nov-13 14:35  CRC=6CB1A611]
+    lcd.h                                                   [22-May-18 07:12  CRC=C6A9748A]
+    D:\PIC\PICC\Drivers\math.h                              [28-Sep-12 11:35  CRC=546412C9]
+    DS18B20.c                                               [15-Jan-18 22:39  CRC=A3477023]
+    one_wire_td.c                                           [22-May-18 08:44  CRC=AF52D20E]
+
+Source signature=6E462923
+
+Units:
+    main (main)
+
+Compiler Settings:
+    Processor:      PIC16F887
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    XREF file:   main.xsym
+    Errors:      main.err
+    Ext Symbols: main.esym
+    INHX8:       main.hex
+    Symbols:     main.sym
+    List:        main.lst
+    Debug/COFF:  main.cof
+    Project:     main.ccspjt
+    Call Tree:   main.tre
+    Statistics:  main.STA
